@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 🤠 I'm Ravi kumar, working as a Data Scientist in one of the Startup Organization.
 - 🔭 I’m currently working on building Machine Learning applications using Machine learning , Deep Learning and Natural Language Processing Techniques.
 - 🌱 I’m currently learning various cloud techniques and full strack frameworks to be Full Stack Data Scientist.
