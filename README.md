@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='1547058431229.jpeg'>
+<img src='1547058431229.jpeg' align='right' height='500px'>
 
 - 🤠 I'm Ravi kumar, working as a Data Scientist in one of the Startup Organization.
 - 🔭 I’m currently working on building Machine Learning applications using Machine learning, Deep Learning and Natural Language Processing Techniques.
