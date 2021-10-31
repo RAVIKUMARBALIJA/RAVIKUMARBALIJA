@@ -9,6 +9,5 @@
 - 👨‍💻 I have technical exposure to AWS, Azure and GCP.
 - 🌱 I’m currently learning Cloud stack and full Angular/Node Js to be Full Stack Data Scientist.
 - 👯 I’m looking to collaborate on any type of Machine Learning Use case.
-- 💬 Ask me about ...
 - 📫 How to reach me: @bravikumar123@hotmail.com, www.linkedin.com/in/ravikumarbalija
 - ⚡ Fun fact: keep watching this space.
