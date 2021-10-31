@@ -11,4 +11,4 @@
 - 👯 I’m looking to collaborate on any type of Machine Learning Use case.
 - 💬 Ask me about ...
 - 📫 How to reach me: @bravikumar123@hotmail.com, www.linkedin.com/in/ravikumarbalija
-- ⚡ Fun fact: Am going to be a Full stack Data Scientist soon.
+- ⚡ Fun fact: keep watching this space.
