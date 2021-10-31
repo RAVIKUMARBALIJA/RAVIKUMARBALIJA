@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src='1547058431229.jpeg'>
+
 - 🤠 I'm Ravi kumar, working as a Data Scientist in one of the Startup Organization.
 - 🔭 I’m currently working on building Machine Learning applications using Machine learning, Deep Learning and Natural Language Processing Techniques.
 - 🔤 I have strong working experince on Python and its ML stack sklearn, Tensorflow, nltk, spacy and little bit of working knowledge on Hugging face transformers.
